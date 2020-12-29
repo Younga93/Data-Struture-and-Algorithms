@@ -8,4 +8,3 @@ Python for Data Structures, Algorithms, and Interviews! in Udemy: [Course Link](
 - [ ] Recursion
 - [ ] Trees
 - [ ] Searching and Sorting
-###### Due date: 12/31/2020
